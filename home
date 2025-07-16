@@ -576,11 +576,8 @@
         }
 
         function openBookingPage() {
-            // In a real implementation, replace this URL with your actual booking system
-            window.open('https://calendly.com/your-company/email-consultation', '_blank');
-            
-            // Or show a contact form
-            alert('Redirecting to booking page...\n\nIn a real implementation, this would open your Calendly, Acuity, or other booking system.');
+            // Open the actual booking page
+            window.open('https://cal.com/stevenwagner/inboxsos', '_blank');
         }
 
         // Add event listeners for email input
